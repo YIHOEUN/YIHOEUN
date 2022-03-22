@@ -4,6 +4,7 @@
 - 🌱 learning HTML + CSS + JavaScript(React) + Algorithm
 - 🌱 learning SQL + Spring
 - ✨ trying to become a WEB full-stack developer
+- - ✨ trying to become a WEB full-stack developer
 <br>
 
 ## 💪Skills
