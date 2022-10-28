@@ -3,7 +3,6 @@
 - 👩🏻‍💻 working on Kyonggi Univ, CSE student ( 2018.03 ~ current)
 - 🌱 learning HTML + CSS + JavaScript(React) + Algorithm
 - 🌱 learning SQL + Spring
-- ✨ trying to become a WEB full-stack developer
 <br>
 
 ## 💪Skills
