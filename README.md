@@ -1,8 +1,8 @@
 # Hi, there. I'm Hoeun YI👋
 
 - 👩🏻‍💻 working on Kyonggi Univ, CSE student ( 2018.03 ~ current)
-- 🌱 learning HTML + CSS + JavaScript(React) + Algorithm
-- 🌱 learning SQL + Spring
+- 🌱 learning Public Cloud + CI/CD (e.g.) jenkins) + DOCKER + k8s
+- 🌱 Aspiring Cloud Engineer
 <br>
 <!--
 ## 💪Skills
