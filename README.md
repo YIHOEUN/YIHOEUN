@@ -1,7 +1,7 @@
 # Hi, there. I'm Hoeun YI👋
 
 - 👩🏻‍💻 studying at Kyonggi Univ, CSE student ( 2018.03 ~ current)
-- 🌱 learning Public Cloud + CI/CD (e.g.) jenkins) + DOCKER + k8s
+- 🌱 learning Public Cloud + CI/CD + DOCKER + k8s
 - 🌱 Aspiring Cloud Engineer
 <br>
 <!--
